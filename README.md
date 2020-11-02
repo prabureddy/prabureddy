@@ -16,7 +16,7 @@
 
 -->
 
-- 💬 Ask me about **React Native, Smartphones and tech**
+- 💬 Ask me about **Web, Android, iOS, Smartphones and tech**
 
 - 📫 Reach me **prabu0reddy777@gmail.com**
 
