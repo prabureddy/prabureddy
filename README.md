@@ -7,8 +7,10 @@
 <img align="center" src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_2.png' alt="Bhargava Prabu Reddy, Django, React, React Native developer who loves tech and gadgets" height="100" width="100"/>
  </h3>
 
+
+- 🔭 I’m currently working at  [Altermate](https://altermate.in/)
+
 <!--
-- 🔭 I’m currently working at  [Cubet Technolabs](https://cubettech.com/)
 
 - 👨‍💻 Portfolio is available at [](https://.github.io)
 
@@ -37,3 +39,9 @@
 <a href="https://linkedin.com/in/prabureddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhargava prabu reddy" height="20" width="20" /></a>
 <a href="https://www.facebook.com/bpr1010/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bhargava prabu reddy" height="20" width="20" /></a>
 <a href="https://www.instagram.com/iam_crazzie/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhargava prabu reddy" height="20" width="20" /></a>
+<br />
+<br />
+<img align="left" alt="Prabu Reddy's Github stats" src="https://github-readme-stats.vercel.app/api?username=prabureddy&count_private=true&show_icons=true" />
+<img align="right" alt="Prabu Reddy's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabureddy&layout=compact" />
+<br />
+<br />
