@@ -7,10 +7,10 @@
 <img align="center" src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_2.png' alt="Bhargava Prabu Reddy, Django, React, React Native developer who loves tech and gadgets" height="100" width="100"/>
  </h3>
 
-
+<!--
 - 🔭 I’m currently working at  [Altermate](https://altermate.in/)
 
-<!--
+
 
 - 👨‍💻 Portfolio is available at [](https://.github.io)
 
