@@ -18,6 +18,8 @@ Hi, I'm Bhargava Prabu Reddy, a passionate hybrid web and mobile app developer f
 - 📫 Reach me **prabu0reddy777@gmail.com**
 -  I  _ ❤️ _ 💻's and 📱's
 
+<br />
+<br />
 
 <img align="left" alt="Prabu Reddy's Github stats" src="https://github-readme-stats.vercel.app/api?username=prabureddy&count_private=true&show_icons=true" />
 <img align="right" alt="Prabu Reddy's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabureddy&layout=compact" />
