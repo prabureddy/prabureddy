@@ -11,7 +11,7 @@
 Hi, I'm Bhargava Prabu Reddy, a passionate hybrid web and mobile app developer from India 🇮🇳
 
 
-- 🔭 I’m currently working on [Shopify Logistic App](https://github.com/prabureddy/shopify-logistics-app)
+- 🔭 I’m currently working on Shopify App (Private)
 - 🌱 I've helped many startups
 - 👯 I’m looking to collaborate on Industrial level projects
 - 💬 Ask me about anything [here](https://github.com/prabureddy/prabureddy/issues)
