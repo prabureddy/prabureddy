@@ -25,6 +25,7 @@ Hi, I'm Bhargava Prabu Reddy, a passionate hybrid web and mobile app developer f
 
 <br />
 <br />
-
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=prabureddy&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="prabureddy" />
 <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabureddy&hide=css&theme=nord" alt="prabureddy" />
+</p>
