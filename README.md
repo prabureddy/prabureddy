@@ -16,7 +16,7 @@
 Hi, I'm Bhargava Prabu Reddy, a passionate hybrid web and mobile app developer from India 🇮🇳
 
 
-- 🔭 I’m currently working on Shopify App - [Published](https://apps.shopify.com/delivery-courier-service)
+- 🔭 I’m currently working on Delivery Automation app for Shopify - [Published](https://apps.shopify.com/delivery-courier-service)
 - 🌱 I've helped worked on startups
 - 👯 I’m looking to collaborate on Industrial level projects
 - 💬 Ask me about anything [here](https://github.com/prabureddy/prabureddy/issues)
