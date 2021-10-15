@@ -11,21 +11,25 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <br />
-<br />
 
 Hi, I'm Bhargava Prabu Reddy, a passionate hybrid web and mobile app developer from India 🇮🇳
 
 
-- 🔭 I’m currently working on Delivery Automation app for Shopify - [Published](https://apps.shopify.com/delivery-courier-service)
-- 🌱 I've helped worked on startups
+- 🔭 I’m focused on building accessible, hybrid work model at [WorkInSync](https://www.workinsync.io/)
 - 👯 I’m looking to collaborate on Industrial level projects
 - 💬 Ask me about anything [here](https://github.com/prabureddy/prabureddy/issues)
 - 📫 Reach me **prabu0reddy777@gmail.com**
 -  I  _ ❤️ _ 💻's and 📱's
 
-<br />
-<br />
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=prabureddy&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="prabureddy" />
-<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabureddy&hide=css&theme=nord" alt="prabureddy" />
-</p>
+#### Some of my Live projects.
+- Delhivery Shipping and SMS - Shopify App - [Live Demo](https://app.freshwind.xyz)
+- Codeforcoder -> Provides study materials - [Live Demo](https://codeforcoder.com)
+- LPU UMS - Chrome Extension - [Check it out](https://chrome.google.com/webstore/detail/lpu-ums-extension/acpmgacalnkaggikkhdffhogebmbjpmp?hl=en)
+
+#### Some of my projects, Do ⭐️ them if you like it.
+- Simplq - Open Source Queue Management Software - [Live Demo](https://www.simplq.me/), [Codebase](https://github.com/SimplQ/simplQ-frontend)
+- React Native Network Checker - [NPM Link](https://www.npmjs.com/package/react-native-network-checker), [Codebase](https://github.com/prabureddy/react-native-network-checker)
+- Web Mania - Hackathon - [Codebase](https://github.com/prabureddy/webmania_1.0-django)
+- Sportify - [Codebase](https://github.com/prabureddy/sportify-django)
+
+##### Please feel free to reach out on **[Twitter](https://twitter.com/bhargavaprabu)** or **prabu0reddy777@gmail.com**. 
