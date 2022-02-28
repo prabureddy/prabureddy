@@ -1,6 +1,8 @@
 ### Hi there, Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm [Bhargava Prabu](https://prabureddy.github.io)
 <p align="left">
 <a target="_blank"  href="https://www.linkedin.com/in/prabureddy/"><img src="https://img.shields.io/badge/-@prabureddy-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/prabureddy/" alt="LinkedIn Badge"></a>
+<a target="_blank"  href="https://twitter.com/bhargavaprabu"><img src="https://img.shields.io/twitter/url/https/twitter.com/bhargavaprabu.svg?style=social&label=Follow%20%40BhargavaPrabu" alt="LinkedIn Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=prabureddy">
 <!-- <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=prabureddy.prabureddy" alt="Vistor Badge"></a> -->
 </p>
 
