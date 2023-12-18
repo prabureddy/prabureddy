@@ -28,7 +28,8 @@ Hi, I'm Bhargava Prabu Reddy, a passionate hybrid Full Stack developer experienc
 - Codeforcoder -> Provides study materials - [Live Demo](https://codeforcoder.com)
 - LPU UMS - Chrome Extension - [Check it out](https://chrome.google.com/webstore/detail/lpu-ums-extension/acpmgacalnkaggikkhdffhogebmbjpmp?hl=en)
 
-#### Some of my projects, Do ⭐️ them if you like it.
+#### Some of my projects, Do ⭐️ them if you like it. 
+- Kanban Board - [Live Demo](https://kanban-board.prabureddy.com), [Codebase](https://github.com/prabureddy/kanban-board)
 - Internal Data Generator Tool - [Live Demo](https://generate-csv.prabureddy.com), [Codebase](https://github.com/prabureddy/Internal-data-creation-tool)
 - Simplq - Open Source Queue Management Software - [Live Demo](https://www.simplq.me/), [Codebase](https://github.com/SimplQ/simplQ-frontend)
 - React Native Network Checker - [NPM Link](https://www.npmjs.com/package/react-native-network-checker), [Codebase](https://github.com/prabureddy/react-native-network-checker)
