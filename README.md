@@ -1,40 +1,118 @@
-### Hi there, Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm [Bhargava Prabu](https://prabureddy.com)
+### Hi there, nice to see you 👋  
+I’m [Bhargava Prabu](https://prabureddy.com)
+
 <p align="left">
-<a target="blank"  href="https://www.linkedin.com/in/prabureddy/"><img src="https://img.shields.io/badge/-@prabureddy-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/prabureddy/" alt="LinkedIn Badge"></a>
-<a target="blank"  href="https://twitter.com/bhargavaprabu"><img src="https://img.shields.io/twitter/url/https/twitter.com/bhargavaprabu.svg?style=social&label=Follow%20%40BhargavaPrabu" alt="LinkedIn Badge"></a>
-<img src="https://komarev.com/ghpvc/?username=prabureddy">
-<!-- <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=prabureddy.prabureddy" alt="Vistor Badge"></a> -->
+  <a target="blank" href="https://www.linkedin.com/in/prabureddy/">
+    <img src="https://img.shields.io/badge/-@prabureddy-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/prabureddy/" alt="LinkedIn Badge" />
+  </a>
+  <a target="blank" href="https://twitter.com/bhargavaprabu">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/bhargavaprabu.svg?style=social&label=Follow%20%40BhargavaPrabu" alt="Twitter Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=prabureddy" alt="Profile views" />
 </p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
-<br />
+### 👨 About me
 
-Hi, I'm Bhargava Prabu Reddy, a passionate hybrid Full Stack developer experienced in building scalable applications.
+Hi, I’m **Bhargava Prabu Reddy**, a hybrid **Full Stack Engineer** focused on building scalable, production-ready applications and automation tooling.
 
+- 💼 **Software Engineer at Apple**  
+- 🧩 Tech stack: **JavaScript, TypeScript, React, Node.js, Python, SQL, Cloud**  
+- 🧠 Currently deep-diving into **AI, Machine Learning, and the Model Context Protocol (MCP)**  
+- 🚀 Interested in **AI agents, RAG, devtools, and automation for real-world workflows**  
+- 🌍 Building products that balance **developer experience, performance, and business impact**  
 
-- 🔭 I’m focused on building accessible - management software for Shopify merchants [Delivery Shipping Service](https://apps.shopify.com/delivery-courier-service)
-- 👯 I’m looking to collaborate on Industrial level projects
-- 💬 Ask me about anything [here](https://github.com/prabureddy/prabureddy/issues)
-- 📫 Reach me **prabu0reddy777@gmail.com**
--  I  _ ❤️ _ 💻's and 📱's
+- 📫 Reach me: **prabu0reddy777@gmail.com**  
+- 💬 Ask me anything: [GitHub Discussions / Issues](https://github.com/prabureddy/prabureddy/issues)  
+- ❤️ I love crafting things for the web, mobile, and my homelab.
 
-#### Some of my Live projects.
-- Delhivery Shipping and SMS - Shopify App - [Live Demo](https://app.freshwind.xyz)
-- Codeforcoder -> Provides study materials - [Live Demo](https://codeforcoder.com)
-- LPU UMS - Chrome Extension - [Check it out](https://chrome.google.com/webstore/detail/lpu-ums-extension/acpmgacalnkaggikkhdffhogebmbjpmp?hl=en)
+---
 
-#### Some of my projects, Do ⭐️ them if you like it. 
-- Google Meet for slack - [Codebase](https://github.com/prabureddy/slack-google-meet)
-- Internal Data Generator Tool - [Live Demo](https://generate-csv.prabureddy.com), [Codebase](https://github.com/prabureddy/Internal-data-creation-tool)
-- Kanban Board - [Live Demo](https://kanban-board.prabureddy.com), [Codebase](https://github.com/prabureddy/kanban-board)
-- Simplq - Open Source Queue Management Software - [Live Demo](https://www.simplq.me/), [Codebase](https://github.com/SimplQ/simplQ-frontend)
-- React Native Network Checker - [NPM Link](https://www.npmjs.com/package/react-native-network-checker), [Codebase](https://github.com/prabureddy/react-native-network-checker)
-- Web Mania - Hackathon - [Codebase](https://github.com/prabureddy/webmania_1.0-django)
-- Sportify - [Codebase](https://github.com/prabureddy/sportify-django)
+### 🧰 Tech I work with
 
-##### Please feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/prabureddy)** or **prabu0reddy777@gmail.com**. 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+
+---
+
+### 🔭 What I’m focused on now
+
+- Building **AI‑powered tooling** around **MCP**, RAG, and safe code execution  
+- Exploring **AI agents** that can research, plan, and build with minimal human glue code  
+- Designing **scalable full‑stack applications and APIs** for real users and internal tools  
+
+---
+
+### 🧪 Selected live projects
+
+#### AI & Automation
+
+- **AI Research Agent (MCP‑Powered Research Engineer)**  
+  Autonomous research agent that:  
+  - researches the web  
+  - queries your knowledge base  
+  - runs Python in a sandbox  
+  - generates reports, charts, and self‑evaluations  
+  → Built for **Claude Desktop / Cursor** with MCP, ChromaDB, and local embeddings.
+
+#### Commerce & Productivity
+
+- **Delhivery Shipping & SMS – Shopify App**  
+  Shipping and notification management for Shopify merchants.  
+  🔗 [Delivery Shipping Service](https://apps.shopify.com/delivery-courier-service)
+
+- **Internal Data Generator Tool**  
+  Generates realistic CSV test data for internal tools and workflows.  
+  🔗 Live: https://generate-csv.prabureddy.com  
+  🔗 Code: https://github.com/prabureddy/Internal-data-creation-tool  
+
+- **Kanban Board**  
+  Lightweight Kanban productivity tool for managing tasks and workflows.  
+  🔗 Live: https://kanban-board.prabureddy.com  
+  🔗 Code: https://github.com/prabureddy/kanban-board  
+
+- **SimplQ – Open Source Queue Management Software**  
+  Open-source queue management for physical/virtual queues.  
+  🔗 Live: https://www.simplq.me/  
+  🔗 Code: https://github.com/SimplQ/simplQ-frontend  
+
+#### Backend & APIs
+
+- **Django REST API with JWT Auth**  
+  Mini project focused on REST APIs and JWT-based authentication between client and server.  
+  🔗 Live demo: django-byjus-unnamed.herokuapp.com/admin  
+  🔗 Code: https://github.com/prabureddy/django-byjus  
+
+---
+
+### 📦 More projects
+
+- **Google Meet for Slack** – Integration to quickly spin up Google Meet from Slack  
+  🔗 Code: https://github.com/prabureddy/slack-google-meet  
+
+- **React Native Network Checker** – NPM package to detect network status in React Native apps  
+  🔗 NPM: https://www.npmjs.com/package/react-native-network-checker  
+  🔗 Code: https://github.com/prabureddy/react-native-network-checker  
+
+- **Codeforcoder** – Learning resources and study materials  
+  🔗 Live: https://codeforcoder.com  
+
+- **LPU UMS – Chrome Extension**  
+  🔗 Chrome Web Store: https://chrome.google.com/webstore/detail/lpu-ums-extension/acpmgacalnkaggikkhdffhogebmbjpmp?hl=en  
+
+- **Sportify, WebMania & more hackathon / experimental projects**  
+  🔗 Sportify: https://github.com/prabureddy/sportify-django  
+  🔗 WebMania: https://github.com/prabureddy/webmania_1.0-django  
+
+---
+
+### 🤝 Let’s connect
+
+- 💼 LinkedIn: [@prabureddy](https://www.linkedin.com/in/prabureddy)
+- ✉️ Email: **prabu0reddy777@gmail.com**
+
+If you’re working on **AI agents, MCP servers, devtools, or full‑stack products**, I’d love to connect and collaborate.
