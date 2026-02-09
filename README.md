@@ -5,9 +5,6 @@ I’m [Bhargava Prabu](https://prabureddy.com)
   <a target="blank" href="https://www.linkedin.com/in/prabureddy/">
     <img src="https://img.shields.io/badge/-@prabureddy-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/prabureddy/" alt="LinkedIn Badge" />
   </a>
-  <a target="blank" href="https://twitter.com/bhargavaprabu">
-    <img src="https://img.shields.io/twitter/url/https/twitter.com/bhargavaprabu.svg?style=social&label=Follow%20%40BhargavaPrabu" alt="Twitter Badge" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=prabureddy" alt="Profile views" />
 </p>
 
